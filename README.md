@@ -4,6 +4,7 @@
 
 ```
 yarn install
+yarn install semantic-ui-css
 ```
 
 ### Compiles and hot-reloads for development
