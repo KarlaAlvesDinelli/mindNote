@@ -13,7 +13,7 @@
       <div class="content">
         <div class="ui form">
           <div class="field">
-            <label>Título</label>
+            <label>Título </label>
             <input type="text" v-model="titleT" />
           </div>
           <div class="field">
